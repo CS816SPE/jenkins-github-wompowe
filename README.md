@@ -9,3 +9,6 @@ going for 2nd commit
 
 # MT2018128
 ![alt text](https://raw.githubusercontent.com/CS816SPE/jenkins-github-wompowe/master/1.png)
+![alt text](https://raw.githubusercontent.com/CS816SPE/jenkins-github-wompowe/master/2.png)
+![alt text](https://raw.githubusercontent.com/CS816SPE/jenkins-github-wompowe/master/3.png)
+![alt text](https://raw.githubusercontent.com/CS816SPE/jenkins-github-wompowe/master/4.png)
